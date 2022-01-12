@@ -32,7 +32,7 @@ main{
 }
 
 .box{
-    width: 230px;
+    width: 250px;
     display: flex;
     flex-direction: column;
     border: 3px solid #a4508b;
@@ -64,7 +64,7 @@ label{
     font-size: 1.2rem;
 }
 #quest{
-    padding: 0.5rem 0rem;
+    padding: 0.2rem 0rem;
 }
 
 footer{
