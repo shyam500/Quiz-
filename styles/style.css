@@ -57,8 +57,12 @@ main{
 
 .inp{
     margin-right: 0.5rem;
+    font-size: 1.2rem;
 }
 
+label{
+    font-size: 1.2rem;
+}
 #quest{
     padding: 0.5rem 0rem;
 }
